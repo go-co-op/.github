@@ -19,6 +19,10 @@ Steps to reproduce the behavior:
 1. B
 1. C
 
+### Version
+
+<!---The release version or commit SHA you're using.--->
+
 ### Expected behavior
 
 <!---A clear and concise description of what you expected to happen.--->
