@@ -23,6 +23,8 @@ Steps to reproduce the behavior:
 
 <!---The release version or commit SHA you're using.--->
 
+<!---Have you tried the latest version?--->
+
 ### Expected behavior
 
 <!---A clear and concise description of what you expected to happen.--->
