@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: Bug report v1
 about: Create a report to help us improve
 title: "[BUG] - Please add descriptive title"
-labels: bug,
+labels: "bug,v1"
 assignees: ''
 
 ---
