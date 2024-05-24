@@ -1,8 +1,8 @@
 ---
-name: v2 - Feature request
+name: Feature request
 about: Suggest an idea for this project
 title: "[FEATURE] - Please add descriptive title"
-labels: "enhancement,v2"
+labels: "enhancement"
 assignees: ''
 
 ---
